@@ -15,7 +15,7 @@ WinGrep.exe --paths=(Paths to search) --search=(Exact string to search) [--maxsi
 ```
 
 ## Dependencies
-WinGrep depends on [boost](http://www.boost.org/) 1.59 program options and filesystem libraries.
+WinGrep depends on [boost](http://www.boost.org/) v1.59 program options and filesystem libraries.
 You'll have to download and compile it yourself.
 
 ## License
