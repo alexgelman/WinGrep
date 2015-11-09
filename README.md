@@ -18,5 +18,9 @@ WinGrep.exe --paths=(Paths to search) --search=(Exact string to search) [--maxsi
 WinGrep depends on [boost](http://www.boost.org/) v1.59 program options and filesystem libraries.
 You'll have to download and compile it yourself.
 
+## Releases
+### v1.0
+Version 1.0 of WinGrep can be found [here](https://github.com/alexgelman/WinGrep/releases/download/v1.0/WinGrep.zip).
+
 ## License
-WinGrep is released under the [MIT license](https://opensource.org/licenses/MIT)
+WinGrep is released under the [MIT license](https://opensource.org/licenses/MIT).
